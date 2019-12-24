@@ -5,7 +5,3 @@ for i in combinations(range(1,990),33):
 
 print(count)
     
-print(count)
-print(count)
-print(count)
-print(count)
